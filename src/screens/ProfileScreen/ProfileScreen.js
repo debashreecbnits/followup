@@ -93,6 +93,7 @@ class Profile extends React.Component {
       formData.append('userName', details.socialMediaName)
     } 
 
+    
     Api.putProfileUpdate('user', formData, this.props.data.token).then(editUserRes => {
       let updatedData=editUserRes.data[0].updateUser;
       this.props.getUpdatedUserDeatils(JSON.stringify(updatedData))
