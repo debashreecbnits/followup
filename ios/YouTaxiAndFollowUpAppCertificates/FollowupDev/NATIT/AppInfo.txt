@@ -1,0 +1,3 @@
+App name: FollowupDev
+Bundle ID: com.NATIT.FollowupDev
+Team ID: MNHS6KNL9T

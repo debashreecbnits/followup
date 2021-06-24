@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/admin/Desktop/palash/followup/ios/Pods/RSKImageCropper/RSKImageCropper/CGGeometry+RSKImageCropper.m \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Target\ Support\ Files/RSKImageCropper/RSKImageCropper-prefix.pch \
+  /Users/admin/Desktop/palash/followup/ios/Pods/RSKImageCropper/RSKImageCropper/CGGeometry+RSKImageCropper.h

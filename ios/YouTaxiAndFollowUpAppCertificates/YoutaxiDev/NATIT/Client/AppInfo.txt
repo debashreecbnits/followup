@@ -1,0 +1,3 @@
+App name: YoutaxiDevClient
+Bundle ID: com.NATIT.YoutaxiDevClient
+Team ID: MNHS6KNL9T

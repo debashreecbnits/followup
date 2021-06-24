@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/admin/Desktop/palash/followup/ios/followup/AppDelegate.m \
+  /Users/admin/Desktop/palash/followup/ios/followup/AppDelegate.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Headers/Public/React-Core/React/RCTBundleURLProvider.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Pilgrim/Pilgrim-2.2.0/Pilgrim.framework/Modules/module.modulemap \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Pilgrim/Pilgrim-2.2.0/Pilgrim.framework/Headers/FSQPVisitTester.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Pilgrim/Pilgrim-2.2.0/Pilgrim.framework/Headers/FSQPVenueLocation.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Pilgrim/Pilgrim-2.2.0/Pilgrim.framework/Headers/FSQPVenue.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Pilgrim/Pilgrim-2.2.0/Pilgrim.framework/Headers/FSQPUserState.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Pilgrim/Pilgrim-2.2.0/Pilgrim.framework/Headers/FSQPUserSegment.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Pilgrim/Pilgrim-2.2.0/Pilgrim.framework/Headers/FSQPUserInfo.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Pilgrim/Pilgrim-2.2.0/Pilgrim.framework/Headers/FSQPVisit.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Pilgrim/Pilgrim-2.2.0/Pilgrim.framework/Headers/FSQPPilgrimManager.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Pilgrim/Pilgrim-2.2.0/Pilgrim.framework/Headers/FSQPNearbyVenue.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Pilgrim/Pilgrim-2.2.0/Pilgrim.framework/Headers/FSQPNearbyTrigger.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Pilgrim/Pilgrim-2.2.0/Pilgrim.framework/Headers/FSQPGeofenceEvent.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Pilgrim/Pilgrim-2.2.0/Pilgrim.framework/Headers/FSQPFeedbackProvider.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Pilgrim/Pilgrim-2.2.0/Pilgrim.framework/Headers/FSQPDebugLog.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Pilgrim/Pilgrim-2.2.0/Pilgrim.framework/Headers/FSQPCurrentLocation.h \
+  /Users/admin/Desktop/palash/followup/ios/Pods/Pilgrim/Pilgrim-2.2.0/Pilgrim.framework/Headers/Pilgrim.h

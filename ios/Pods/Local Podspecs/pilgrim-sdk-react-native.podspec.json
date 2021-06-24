@@ -1,0 +1,26 @@
+{
+  "name": "pilgrim-sdk-react-native",
+  "version": "1.0.9",
+  "summary": "React native wrapper for the Pilgrim SDK",
+  "license": "Apache-2.0",
+  "authors": {
+    "name": "Brian Rojas"
+  },
+  "homepage": "https://enterprise.foursquare.com/products/pilgrim",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/foursquare/pilgrim-sdk-react-native.git",
+    "tag": "v1.0.9"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ],
+    "Pilgrim": [
+      "= 2.2.0"
+    ]
+  }
+}

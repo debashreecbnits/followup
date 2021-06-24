@@ -1,0 +1,3 @@
+App name: YoutaxiDevDriver
+Bundle ID: com.NATIT.YoutaxiDevDriver
+Team ID: MNHS6KNL9T
